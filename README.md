@@ -1,3 +1,3 @@
 # Ejercicios-HTML-CSS
-Ejercicios Tarea Evaluable de Lenguaje de Marcas 
-Repositorio hecho por Pablo Peñil Gonzalo, alumno de 1º DAW (diurno)
+<h1>Repositorio de: Pablo Peñil</h1>
+Repositorio para hacer los ejercicios de HTML y CSS del módulo de Marcas
